@@ -1,28 +1,28 @@
-# Calculadora
-Essa calculadora é uma aplicação gráfica que permite fazer as operações matemáticas básicas e algumas funções interessantes. Ela é feita utilizando a linguagem de programação Java e a biblioteca gráfica Swing.
+# Calculator
+This calculator is a graphical application that allows you to perform basic mathematical operations and some interesting functions. It is made using the Java programming language and the Swing graphical library.
 
-## Funcionalidades
-A calculadora possui as seguintes funcionalidades:
+## Features
+The calculator has the following features:
 
-Soma (+)
-Subtração (-)
-Multiplicação (*)
-Divisão (/)
-Raiz quadrada (√)
-Exponenciação (^)
-Porcentagem (%)
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Square root (√)
+Exponentiation (^)
+Percentage (%)
 
-## Como usar
-Para utilizar a calculadora, basta executar o arquivo Calculadora.java. Isso abrirá a janela da Calculadora. Na janela, você verá uma tela de exibição na parte superior e uma série de botões na parte inferior.
+## How to use
+To use the calculator, simply execute the Calculator.java file. This will open the Calculator window. In the window, you will see a display screen at the top and a series of buttons at the bottom.
 
-Para fazer uma operação, clique nos botões correspondentes aos números e operadores. Por exemplo, se você quiser fazer a soma de 2 e 3, clique nos botões "2", "+", e "3", nesta ordem. O resultado será exibido na tela de exibição.
+To perform an operation, click the buttons corresponding to the numbers and operators. For example, if you want to add 2 and 3, click the "2", "+", and "3" buttons, in that order. The result will be displayed on the display screen.
 
-Para limpar a tela de exibição, basta clicar no botão "Esc". Para fechar a calculadora, clique no "X" da janela para fechar a Calculadora.
+To clear the display screen, simply click the "Esc" button. To close the calculator, click the "X" on the window to close the Calculator.
 
-## Como funciona
-A calculadora é feita usando uma classe chamada Calculadora. Essa classe possui métodos para cada uma das operações matemáticas básicas e algumas funções interessantes, como raiz quadrada e exponenciação.
+## How it works
+The calculator is made using a class called Calculator. This class has methods for each of the basic mathematical operations and some interesting functions, such as square root and exponentiation.
 
-A interface gráfica é feita utilizando a biblioteca Calculadora. Cada botão na interface gráfica é vinculado a um método correspondente na classe Calculadora. Quando um botão é clicado, o método correspondente é chamado e o resultado é exibido na tela de exibição.
+The graphical interface is made using the Calculator library. Each button in the graphical interface is linked to a corresponding method in the Calculator class. When a button is clicked, the corresponding method is called and the result is displayed on the display screen.
 
-## Conclusão
-Esta calculadora é uma aplicação simples que permite fazer operações matemáticas básicas e algumas funções interessantes. É fácil de usar e é uma boa opção para quem precisa fazer cálculos rapidamente. Se você quiser expandir a funcionalidade da calculadora, pode modificar o código-fonte e adicionar novas funcionalidades.
+## Conclusion
+This calculator is a simple application that allows you to perform basic mathematical operations and some interesting functions. It is easy to use and is a good option for those who need to make calculations quickly. If you want to expand the functionality of the calculator, you can modify the source code and add new features.
