@@ -1,5 +1,5 @@
 /**
- * Allan Alves Amancio
+ * @author Allan Alves Amancio
  * Calculator Class
 */
 import java.util.ArrayList;
